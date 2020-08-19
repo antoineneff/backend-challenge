@@ -1,0 +1,16 @@
+{
+  "name": "challenge-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Antoine Neff",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.5.2"
+  }
+}

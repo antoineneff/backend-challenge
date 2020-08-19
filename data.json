@@ -1,0 +1,159 @@
+[
+  {
+    "acc_number": "000000001",
+    "amount": "3000",
+    "transactions": [
+      {
+        "label": "label 1",
+        "amount": "30",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 2",
+        "amount": "10",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 3",
+        "amount": "15",
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "acc_number": "000000002",
+    "amount": "40",
+    "transactions": [
+      {
+        "label": "label 2",
+        "amount": "60",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 8",
+        "amount": "32",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 1",
+        "amount": "25",
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "acc_number": "000000003",
+    "amount": "10",
+    "transactions": []
+  },
+  {
+    "acc_number": "000000011",
+    "amount": "909",
+    "transactions": [
+      {
+        "label": "label 1",
+        "amount": "40",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 2",
+        "amount": "30",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 3",
+        "amount": "3",
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "acc_number": "0000000012",
+    "amount": "675",
+    "transactions": [
+      {
+        "label": "label 1",
+        "amount": "40",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 2",
+        "amount": "30",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 3",
+        "amount": "3",
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "acc_number": "0000000013",
+    "amount": "4544",
+    "transactions": []
+  },
+  {
+    "acc_number": "0000000021",
+    "amount": "987",
+    "transactions": [
+      {
+        "label": "label 1",
+        "amount": "40",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 2",
+        "amount": "30",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 3",
+        "amount": "3",
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "acc_number": "0000000022",
+    "amount": "456",
+    "transactions": [
+      {
+        "label": "label 1",
+        "amount": "40",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 2",
+        "amount": "30",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 3",
+        "amount": "3",
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "acc_number": "0000000023",
+    "amount": "3456",
+    "transactions": [
+      {
+        "label": "label 1",
+        "amount": "40",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 2",
+        "amount": "30",
+        "currency": "EUR"
+      },
+      {
+        "label": "label 3",
+        "amount": "3",
+        "currency": "EUR"
+      }
+    ]
+  }
+]
